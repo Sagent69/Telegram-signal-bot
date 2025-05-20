@@ -28,3 +28,6 @@ Price: {price}
     })
 
     return 'OK', 200
+Flask
+requests
+    
